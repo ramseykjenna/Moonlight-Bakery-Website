@@ -1,0 +1,9 @@
+{
+  "firebase": "moonlight-bakery",
+  "public": "www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
